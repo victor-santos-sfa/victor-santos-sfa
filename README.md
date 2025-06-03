@@ -46,9 +46,8 @@ Estou sempre estudando e aprimorando minhas habilidades. Me interesso por arquit
 
 ## 📬 Contato
 
-- LinkedIn: [linkedin.com/in/victorsantos](https://www.linkedin.com/in/victorsantos) <!-- edite com seu link real -->
-- Email: victorsantos.dev@email.com <!-- edite com seu email real -->
-- GitHub: [github.com/seu-usuario](https://github.com/seu-usuario) <!-- edite com seu username real -->
+- Email: victor.santos@gruposfa.com <!-- edite com seu email real -->
+- GitHub: [[github.com/seu-usuario](https://github.com/victor-santos-sfa)] <!-- edite com seu username real -->
 
 ---
 
