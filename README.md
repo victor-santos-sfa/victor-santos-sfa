@@ -47,7 +47,7 @@ Estou sempre estudando e aprimorando minhas habilidades. Me interesso por arquit
 ## 📬 Contato
 
 - Email: victor.santos@gruposfa.com <!-- edite com seu email real -->
-- GitHub: [[github.com/seu-usuario](https://github.com/victor-santos-sfa)] <!-- edite com seu username real -->
+- GitHub: [(https://github.com/victor-santos-sfa)] <!-- edite com seu username real -->
 
 ---
 
